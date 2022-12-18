@@ -3,7 +3,7 @@
 ## What is the purpose of Scrum? 
 
 
-## Key considerations neede to successfully complete a project using **Agile project management**
+## Key considerations neede to successfully complete a project using **Agile project management** 
 
 
 
