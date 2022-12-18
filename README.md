@@ -1,2 +1,2 @@
-# Written and Verbal Communication for Softwar Development
+# Written and Verbal Communication for Software Development
  
