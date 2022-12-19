@@ -24,4 +24,4 @@ Agile based tools and Git Repository are helpful for managing scrum because it i
 
 reference: Cobb, C. G. (2023). The Project Manager’s Guide to Mastering Agile: Principles and Practices for an Adaptive Approach (2nd ed.). Wiley.
 
-reference: Atlassian. (n.d.-b). Learn how Git fits into an agile workflow. https://www.atlassian.com/agile/software-development/git
+reference: Atlassian. (n.d.-b). Learn how Git fits into an agile workflow.
